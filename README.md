@@ -16,7 +16,7 @@ No installation required to use the workday scheduler, visit https://rachelwildb
 
 To use the Workday Schdeuler open the scheduler at https://rachelwildberger.github.io/Work-Day-Scheduler/ and start planning your day. Once activities and tasks are input in to each time block click the cloud save button to save your events.
 
-![Workday Scheduler Preview](assets/images/Workday-Scheduler.png)
+![Workday Scheduler Preview](assets/images/workday-scheduler-preview.png)
 
 ## Credits
 Collaborators include classmate; Justus Schoppmann.
