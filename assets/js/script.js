@@ -33,7 +33,7 @@ $("#hour-18 .description").val(localStorage.getItem("hour-18"));
 // Add code to apply the past, present, or future class to each 
 // time block by comparing the id to the current hour
 
-var present = dayjs().hour() + 1;
+var present = dayjs().hour();
 var timeBlock = $('.time-block');
 
 function updateClasses() {
